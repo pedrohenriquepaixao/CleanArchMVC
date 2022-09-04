@@ -24,3 +24,12 @@ C:\dev\CleanArq\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net6.0\CleanArchMVC.We
 C:\dev\CleanArq\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net6.0\ref\CleanArchMVC.WebUI.dll
 C:\dev\CleanArq\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net6.0\CleanArchMVC.WebUI.pdb
 C:\dev\CleanArq\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net6.0\CleanArchMVC.WebUI.genruntimeconfig.cache
+C:\dev\CleanArq\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net6.0\CleanArchMVC.Application.dll
+C:\dev\CleanArq\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net6.0\CleanArchMVC.Domain.dll
+C:\dev\CleanArq\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net6.0\CleanArchMVC.Infra.Data.dll
+C:\dev\CleanArq\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net6.0\CleanArchMVC.Infra.IoC.dll
+C:\dev\CleanArq\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net6.0\CleanArchMVC.Infra.IoC.pdb
+C:\dev\CleanArq\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net6.0\CleanArchMVC.Application.pdb
+C:\dev\CleanArq\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net6.0\CleanArchMVC.Domain.pdb
+C:\dev\CleanArq\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net6.0\CleanArchMVC.Infra.Data.pdb
+C:\dev\CleanArq\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net6.0\CleanArchMVC.WebUI.csproj.CopyComplete
